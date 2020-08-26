@@ -37,7 +37,7 @@ robindu552
 
 [**ameihao**] (https://github.com/ameihao) Hi, I'm Amei Hao. Glad to study with you all! I hope we can enjoy this class together.
 
-Weijia-H
+ [**@Weijia-H**](https://github.com/Weijia-H/) Hi, I'm Weijia Hu. I love spicy food and have a dog named Lemon.
 
 
 
