@@ -46,7 +46,7 @@ slee2424
 
 
 
-yina-liu
+[**@yina-liu**](https://github.com/yina-liu) I'm a second-year master student of Biostatistics, and I prefer to use R as my data analysis tool.
 
 ashwathkraj
 
