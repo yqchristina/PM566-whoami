@@ -76,7 +76,7 @@ jiqingwu1997
 
 shawnyeusc
 
-MingzhiYe16
+MingzhiYe16 I'm from Hefei, China. And I'm interested in the data science and the culture of the US
 
 hankezhe
 
