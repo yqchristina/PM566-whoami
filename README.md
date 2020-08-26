@@ -35,7 +35,7 @@ mbolshakova
 
 [**@robindu552**](https://github.com/robindu552) I am an MD/MPH student, I played classical piano for 15 years.
 
-ameihao
+[**ameihao**](https://github.com/ameihao)  Hi, I'm Amei Hao. Glad to study with you all! Hope we can enjoy this class toghther.
 
 Weijia-H
 
