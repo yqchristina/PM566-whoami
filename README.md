@@ -42,7 +42,8 @@ Weijia-H
 
 [**eshkim1021**](https://https://github.com/eshkim1021) I am from San Diego, CA.I loving playing instruments. I have played the cello for 8 years.
 
-slee2424
+[**@slee2424**](https://github.com/slee2424) Hi everyone, I'm Jun. Nice to meet you all.
+
 
 
 
