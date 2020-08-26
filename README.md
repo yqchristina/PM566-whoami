@@ -3,7 +3,7 @@
 You need to make a fork of this repository, find your name in the list below, and replace it with something like:
 
 ```md
-[**@username**](https://github.com/username/)
+[**@username**](https://github.com/username/) something about you
 ```
 
 For example, this is what I did with mine:
