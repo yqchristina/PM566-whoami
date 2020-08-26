@@ -26,7 +26,7 @@ username!
 
 
 
-cbegay89
+cbegay89 git commit -a -m "Hello, this is Cynthia Begay"
 
 mbolshakova
 
