@@ -85,7 +85,7 @@ hankezhe
 
 @gvegayon
 
-[**@meredithfranklin**](https://github.com/meredithfranklin/) I'm an associate professor of biostatistics at USC and enjoy running and playing music in my spare time. <img src=https://avatars3.githubusercontent.com/u/1953165?s=460&u=02c7af6f6b2cfc3e5f7c381178b9f6873d8d3526&v=4>
+[**@meredithfranklin**](https://github.com/meredithfranklin/) I'm an associate professor of biostatistics at USC and enjoy running and playing music in my spare time. <img src="https://avatars3.githubusercontent.com/u/1953165?s=460&u=02c7af6f6b2cfc3e5f7c381178b9f6873d8d3526&v=4">
 
 @EmilHvitfeldt
 
