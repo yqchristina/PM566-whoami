@@ -78,7 +78,7 @@ shawnyeusc
 
 MingzhiYe16
 
-hankezhe
+hankezhe “hi everyone my name is Hanke and I am a PhD student in Health Econ”
 
 
 # PM566 Fall 2020 instructors
