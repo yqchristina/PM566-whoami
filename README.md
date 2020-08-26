@@ -88,7 +88,7 @@ shawnyeusc
 
 [**@meredithfranklin**](https://github.com/meredithfranklin/) I'm an associate professor of biostatistics at USC and enjoy running and playing music in my spare time. <img src="https://avatars3.githubusercontent.com/u/1953165?s=460&u=02c7af6f6b2cfc3e5f7c381178b9f6873d8d3526&v=4" width="40px">
 
-@EmilHvitfeldt
+[**@EmilHvitfeldt**](https://github.com/emilhvitfeldt) I'm a Research Programmer at USC. Currently writing a book on [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) in my free time.<img src="https://avatars1.githubusercontent.com/u/14034784?v=4" width="40px">
 
 [**@AbigailHorn**](https://github.com/abigailhorn) <img src="http://abigail-horn.com/wp-content/uploads/2018/09/photo_AbigailHorn.jpg" alt="Academic pic" width="40px"> A link to some music tracks recored many years ago on [my website](http://abigail-horn.com/index.php/music/).
 
