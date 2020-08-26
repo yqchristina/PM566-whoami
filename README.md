@@ -35,7 +35,7 @@ mbolshakova
 
 [**@robindu552**](https://github.com/robindu552) I am an MD/MPH student, I played classical piano for 15 years.
 
-[**ameihao**](https://github.com/ameihao)  Hi, I'm Amei Hao. Glad to study with you all! Hope we can enjoy this class toghther.
+ameihao
 
 Weijia-H
 
@@ -74,13 +74,11 @@ svannord
 [**minhaowa**](https://github.com/minhaowa) I love iced latte :)
 
 
-[**@RuowenWang123**](https://github.com/RuowenWang123/)My name is Ruowen Wang.
+RuowenWang123
 
-jiqingwu1997
+[**jiqingwu1997**](https://github.com/jiqingwu1997) I'm Jiqing Wu
 
-```md
-[**@shawnyeusc**](https://github.com/shawnyeusc) I love LA
-```
+shawnyeusc
 
 [***MingzhiYe16***](https://github.com/MingzhiYe16) I'm from Hefei, China. And I'm interested in the data science and the culture of the US
 
