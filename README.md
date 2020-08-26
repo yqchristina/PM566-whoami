@@ -70,7 +70,9 @@ svannord
 
 [**@HopeW233**](https://github.com/HopeW233) I'm a graduate student at USC, and my nickname is Hope.
 
-minhaowa
+
+[**minhaowa**](https://github.com/minhaowa) I love iced latte :)
+
 
 RuowenWang123
 
