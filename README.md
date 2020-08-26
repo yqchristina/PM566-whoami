@@ -83,7 +83,7 @@ hankezhe
 
 # PM566 Fall 2020 instructors
 
-@gvegayon
+**@gvegayon**](https://github.com/gvegayon) adding some text <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" width="40px">
 
 @meredithfranklin
 
