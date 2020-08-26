@@ -48,7 +48,7 @@ slee2424
 
 yina-liu
 
-ashwathkraj
+[**@ashwathkraj**](https://github.com/ashwathkraj) My goal for almost 10 years has been to create consumer brain computer interfaces
 
 Luqing521
 
