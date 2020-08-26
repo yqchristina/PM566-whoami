@@ -54,7 +54,7 @@ Luqing521
 
 bcruiz
 
-suyeonry
+[**@suyeonry**](https://github.com/suyeonry) I am a genomic researcher who is trying to learn Data Science
 
 Shan-shan-666
 
