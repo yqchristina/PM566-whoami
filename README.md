@@ -78,7 +78,7 @@ jiqingwu1997
 
 shawnyeusc
 
-MingzhiYe16 I'm from Hefei, China. And I'm interested in the data science and the culture of the US
+[***MingzhiYe16***](https://github.com/MingzhiYe16) I'm from Hefei, China. And I'm interested in the data science and the culture of the US
 
 hankezhe “hi everyone my name is Hanke and I am a PhD student in Health Econ”
 
