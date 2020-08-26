@@ -80,8 +80,7 @@ shawnyeusc
 
 [***MingzhiYe16***](https://github.com/MingzhiYe16) I'm from Hefei, China. And I'm interested in the data science and the culture of the US
 
-hankezhe “hi everyone my name is Hanke and I am a PhD student in Health Econ”
-
+[**@hankezhe**](https://github.com/hankezhe)  “hi everyone my name is Hanke and I am a PhD student in Health Econ”
 
 # PM566 Fall 2020 instructors
 
