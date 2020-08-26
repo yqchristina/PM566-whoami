@@ -78,8 +78,7 @@ shawnyeusc
 
 MingzhiYe16
 
-hankezhe “hi everyone my name is Hanke and I am a PhD student in Health Econ”
-
+[**@hankezhe**](https://github.com/hankezhe)  “hi everyone my name is Hanke and I am a PhD student in Health Econ”
 
 # PM566 Fall 2020 instructors
 
