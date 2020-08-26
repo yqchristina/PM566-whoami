@@ -48,7 +48,7 @@ Weijia-H
 
 
 
-yina-liu
+[**@yina-liu**](https://github.com/yina-liu) I'm a second-year master student of Biostatistics, and I prefer to use R as my data analysis tool.
 
 [**@ashwathkraj**](https://github.com/ashwathkraj) My goal for almost 10 years has been to create consumer brain computer interfaces
 
