@@ -33,9 +33,9 @@ mbolshakova
 
 [**@jiaheche**](https://github.com/jiaheche) I used to work in biological lab
 
-[**@robindu552**](https://github.com/robindu552) I am an MD/MPH student, I played classical piano for 15 years.
+robindu552
 
-ameihao
+[**ameihao**] (https://github.com/ameihao) Hi, I'm Amei Hao. Glad to study with you all! I hope we can enjoy this class together.
 
 Weijia-H
 
@@ -70,9 +70,7 @@ svannord
 
 [**@HopeW233**](https://github.com/HopeW233) I'm a graduate student at USC, and my nickname is Hope.
 
-
-[**minhaowa**](https://github.com/minhaowa) I love iced latte :)
-
+minhaowa
 
 RuowenWang123
 
@@ -90,7 +88,7 @@ shawnyeusc
 
 [**@meredithfranklin**](https://github.com/meredithfranklin/) I'm an associate professor of biostatistics at USC and enjoy running and playing music in my spare time. <img src="https://avatars3.githubusercontent.com/u/1953165?s=460&u=02c7af6f6b2cfc3e5f7c381178b9f6873d8d3526&v=4" width="40px">
 
-[**@EmilHvitfeldt**](https://github.com/emilhvitfeldt) I'm a Research Programmer at USC. Currently writing a book on [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) in my free time.<img src="https://avatars1.githubusercontent.com/u/14034784?v=4" width="40px">
+@EmilHvitfeldt
 
 [**@AbigailHorn**](https://github.com/abigailhorn) <img src="http://abigail-horn.com/wp-content/uploads/2018/09/photo_AbigailHorn.jpg" alt="Academic pic" width="40px"> A link to some music tracks recored many years ago on [my website](http://abigail-horn.com/index.php/music/).
 
