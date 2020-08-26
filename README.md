@@ -74,7 +74,9 @@ RuowenWang123
 
 jiqingwu1997
 
-shawnyeusc
+```md
+[**@shawnyeusc**](https://github.com/shawnyeusc) I love LA
+```
 
 MingzhiYe16
 
