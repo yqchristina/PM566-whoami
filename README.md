@@ -78,7 +78,9 @@ svannord
 
 jiqingwu1997
 
-shawnyeusc
+```md
+[**@shawnyeusc**](https://github.com/shawnyeusc) I love LA
+```
 
 [***MingzhiYe16***](https://github.com/MingzhiYe16) I'm from Hefei, China. And I'm interested in the data science and the culture of the US
 
