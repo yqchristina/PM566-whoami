@@ -89,4 +89,5 @@ hankezhe
 
 @EmilHvitfeldt
 
-@AbigailHorn
+[**@AbigailHorn**](https://github.com/abigailhorn) <img src="http://abigail-horn.com/wp-content/uploads/2018/09/photo_AbigailHorn.jpg"> A link to some music tracks recored many years ago on [my website](http://abigail-horn.com/index.php/music/).
+
