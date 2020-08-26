@@ -66,7 +66,7 @@ asuasu95
 
 svannord
 
-HopeW233
+[**@HopeW233**](https://github.com/HopeW233) I'm a graduate student at USC, and my nickname is Hope.
 
 minhaowa
 
