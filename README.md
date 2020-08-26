@@ -42,7 +42,8 @@ Weijia-H
 
 eshkim1021
 
-slee2424
+[**@slee2424**](https://github.com/slee2424) Hi everyone, I'm Jun. Nice to meet you all.
+
 
 
 
