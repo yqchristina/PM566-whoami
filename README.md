@@ -56,9 +56,7 @@ bcruiz
 
 suyeonry
 
-Shan-shan-666
-
-
+[**@Shan-shan-666**]（https://github.com/Shan-shan-666） Hi guys this is haoyue and this is my second trying 
 
 asuasu95
 
