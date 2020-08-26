@@ -25,63 +25,65 @@ username!
 
 
 
-@cbegay89
 
-@mbolshakova
+cbegay89
 
-@jiaheche
+mbolshakova
 
-@robindu552
+jiaheche
 
-
-
-@Weijia-H
+robindu552
 
 
 
-@eshkim1021
-
-@slee2424
+Weijia-H
 
 
 
-@yina-liu
+eshkim1021
 
-@ashwathkraj
-
-@Luqing521
+slee2424
 
 
 
-@suyeonry
+yina-liu
 
-@Shan-shan-666
+ashwathkraj
 
+Luqing521
 
+bcruiz
 
-@asuasu95
+suyeonry
 
-
-
-@svannord
-
-@HopeW233
-
-@minhaowa
-
-@RuowenWang123
+Shan-shan-666
 
 
 
-@shawnyeusc
+asuasu95
 
-@MingzhiYe16
 
-@hankezhe
+
+svannord
+
+HopeW233
+
+minhaowa
+
+RuowenWang123
+
+
+
+shawnyeusc
+
+MingzhiYe16
+
+hankezhe
+
 
 # PM566 Fall 2020 instructors
 
-[**@gvegayon**](https://github.com/gvegayon) My first programming language was Visual Basic and before going to business school I wanted to be a musician <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" alt="An old picture of me" width="40px">
+@gvegayon
 
 @meredithfranklin
 
