@@ -33,7 +33,7 @@ mbolshakova
 
 [**@jiaheche**](https://github.com/jiaheche) I used to work in biological lab
 
-robindu552
+[**@robindu552**](https://github.com/robindu552) I am an MD/MPH student, I played classical piano for 15 years.
 
 ameihao
 
