@@ -24,7 +24,7 @@ username!
 
 
 
-- cbegay89 git commit -a -m "Hello, this is Cynthia Begay"
+- [**@cbegay89**](https://github.com/cbegay89) git commit -a -m "Hello, this is Cynthia Begay"
 
 - mbolshakova
 [**@mbolshakova**](https://github.com/mbolshakova) I was originally born in Belarus and have a Corgi named Nugget.  <img src="https://avatars0.githubusercontent.com/u/42354479?s=460&u=ae92b8aa2b1aae4d0c8034ff90a1144aef8d1b82&v=4" alt="An old picture of me" width="40px">
@@ -33,7 +33,7 @@ username!
 
 - [**@robindu552**](https://github.com/robindu552) I am an MD/MPH student, I played classical piano for 15 years.
 
-- [**ameihao**] (https://github.com/ameihao) Hi, I'm Amei Hao. Glad to study with you all! I hope we can enjoy this class together.
+- [**ameihao**](https://github.com/ameihao) Hi, I'm Amei Hao. Glad to study with you all! I hope we can enjoy this class together.
 
 - [**@Weijia-H**](https://github.com/Weijia-H/) Hi, I'm Weijia Hu. I love spicy food and have a dog named Lemon.
 
@@ -57,13 +57,13 @@ username!
 
 - [**@suyeonry**](https://github.com/suyeonry) I am a genomic researcher who is trying to learn Data Science
 
-- [**@Shan-shan-666**]（https://github.com/Shan-shan-666） Hi guys this is haoyue and this is my second trying 
+- [**@Shan-shan-666**](https://github.com/Shan-shan-666) Hi guys this is haoyue and this is my second trying 
 
-- asuasu95  "I am Changqing Su. I am a master student in Biostats."
+- [**@asuasu95**](https://github.com/asuasu95)  "I am Changqing Su. I am a master student in Biostats."
 
 - [**@Icygrey**](https://github.com/Icygrey)I am Tao Huang. I want to be a qualified data scientist!
 
-- svannord git commit -a -m "[I am from NYC and have no previous experience with coding.]"
+- [**@svannord**](https://github.com/svannord) git commit -a -m "[I am from NYC and have no previous experience with coding.]"
 git push
 
 - [**@HopeW233**](https://github.com/HopeW233) I'm a graduate student at USC, and my nickname is Hope.
