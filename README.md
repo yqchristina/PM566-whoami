@@ -52,7 +52,7 @@ robindu552
 
 [**@ashwathkraj**](https://github.com/ashwathkraj) My goal for almost 10 years has been to create consumer brain computer interfaces
 
-Luqing521
+[**@Luqing521**](https://github.com/Luqing521) Hello, I'm Luqing. I am a master student in health data science.
 
 bcruiz
 [**@bcruiz**](https://github.com/bcruiz) Love taking care of my succulents and I read baseball statistical programming books for fun!
