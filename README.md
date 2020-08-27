@@ -26,61 +26,61 @@ username!
 
 
 
-cbegay89 git commit -a -m "Hello, this is Cynthia Begay"
+- cbegay89 git commit -a -m "Hello, this is Cynthia Begay"
 
-mbolshakova
+- mbolshakova
 [**@mbolshakova**](https://github.com/mbolshakova) I was originally born in Belarus and have a Corgi named Nugget.  <img src="https://avatars0.githubusercontent.com/u/42354479?s=460&u=ae92b8aa2b1aae4d0c8034ff90a1144aef8d1b82&v=4" alt="An old picture of me" width="40px">
 
-[**@jiaheche**](https://github.com/jiaheche) I used to work in biological lab
+- [**@jiaheche**](https://github.com/jiaheche) I used to work in biological lab
 
-robindu552
+- [**@robindu552**](https://github.com/robindu552) I am an MD/MPH student, I played classical piano for 15 years.
 
-[**ameihao**] (https://github.com/ameihao) Hi, I'm Amei Hao. Glad to study with you all! I hope we can enjoy this class together.
+- [**ameihao**] (https://github.com/ameihao) Hi, I'm Amei Hao. Glad to study with you all! I hope we can enjoy this class together.
 
- [**@Weijia-H**](https://github.com/Weijia-H/) Hi, I'm Weijia Hu. I love spicy food and have a dog named Lemon.
-
-
-
-[**eshkim1021**](https://https://github.com/eshkim1021) I am from San Diego, CA.I loving playing instruments. I have played the cello for 8 years.
-
-[**@slee2424**](https://github.com/slee2424) Hi everyone, I'm Jun. Nice to meet you all.
+- [**@Weijia-H**](https://github.com/Weijia-H/) Hi, I'm Weijia Hu. I love spicy food and have a dog named Lemon.
 
 
 
+- [**eshkim1021**](https://https://github.com/eshkim1021) I am from San Diego, CA.I loving playing instruments. I have played the cello for 8 years.
 
-[**@yina-liu**](https://github.com/yina-liu) I'm a second-year master student of Biostatistics, and I prefer to use R as my data analysis tool.
+- [**@slee2424**](https://github.com/slee2424) Hi everyone, I'm Jun. Nice to meet you all.
 
-[**@ashwathkraj**](https://github.com/ashwathkraj) My goal for almost 10 years has been to create consumer brain computer interfaces
 
-[**@Luqing521**](https://github.com/Luqing521) Hello, I'm Luqing. I am a master student in health data science.
 
-bcruiz
+
+- [**@yina-liu**](https://github.com/yina-liu) I'm a second-year master student of Biostatistics, and I prefer to use R as my data analysis tool.
+
+- [**@ashwathkraj**](https://github.com/ashwathkraj) My goal for almost 10 years has been to create consumer brain computer interfaces
+
+- [**@Luqing521**](https://github.com/Luqing521) Hello, I'm Luqing. I am a master student in health data science.
+
+- bcruiz
 [**@bcruiz**](https://github.com/bcruiz) Love taking care of my succulents and I read baseball statistical programming books for fun!
 
-[**@suyeonry**](https://github.com/suyeonry) I am a genomic researcher who is trying to learn Data Science
+- [**@suyeonry**](https://github.com/suyeonry) I am a genomic researcher who is trying to learn Data Science
 
-[**@Shan-shan-666**]（https://github.com/Shan-shan-666） Hi guys this is haoyue and this is my second trying 
+- [**@Shan-shan-666**]（https://github.com/Shan-shan-666） Hi guys this is haoyue and this is my second trying 
 
-asuasu95  "I am Changqing Su. I am a master student in Biostats."
+- asuasu95  "I am Changqing Su. I am a master student in Biostats."
 
-[**@Icygrey**](https://github.com/Icygrey)I am Tao Huang. I want to be a qualified data scientist!
+- [**@Icygrey**](https://github.com/Icygrey)I am Tao Huang. I want to be a qualified data scientist!
 
-svannord git commit -a -m "[I am from NYC and have no previous experience with coding.]"
+- svannord git commit -a -m "[I am from NYC and have no previous experience with coding.]"
 git push
 
-[**@HopeW233**](https://github.com/HopeW233) I'm a graduate student at USC, and my nickname is Hope.
+- [**@HopeW233**](https://github.com/HopeW233) I'm a graduate student at USC, and my nickname is Hope.
 
-minhaowa
+- [**minhaowa**](https://github.com/minhaowa) I love iced latte :)
 
-RuowenWang123
+- [**@RuowenWang123**](https://github.com/RuowenWang123/)My name is Ruowen Wang.
 
-[**jiqingwu1997**](https://github.com/jiqingwu1997) I'm Jiqing Wu
+- [**jiqingwu1997**](https://github.com/jiqingwu1997) I'm Jiqing Wu
 
-[**@shawnyeusc**](https://github.com/shawnyeusc) I love LA
+- [**@shawnyeusc**](https://github.com/shawnyeusc) I love LA
 
-[***MingzhiYe16***](https://github.com/MingzhiYe16) I'm from Hefei, China. And I'm interested in the data science and the culture of the US
+- [***MingzhiYe16***](https://github.com/MingzhiYe16) I'm from Hefei, China. And I'm interested in the data science and the culture of the US
 
-[**@hankezhe**](https://github.com/hankezhe)  “hi everyone my name is Hanke and I am a PhD student in Health Econ”
+- [**@hankezhe**](https://github.com/hankezhe)  “hi everyone my name is Hanke and I am a PhD student in Health Econ”
 
 # PM566 Fall 2020 instructors
 
