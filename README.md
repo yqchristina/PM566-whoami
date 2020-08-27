@@ -59,9 +59,7 @@ bcruiz
 
 [**@suyeonry**](https://github.com/suyeonry) I am a genomic researcher who is trying to learn Data Science
 
-[**@Shan-shan-666**](https://github.com/Shan-shan-666)Hi guys! 
-
-
+[**@Shan-shan-666**]（https://github.com/Shan-shan-666） Hi guys this is haoyue and this is my second trying 
 
 asuasu95  "I am Changqing Su. I am a master student in Biostats."
 
