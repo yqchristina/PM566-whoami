@@ -35,7 +35,7 @@ username!
 
 - [**@robindu552**](https://github.com/robindu552) I am an MD/MPH student, I played classical piano for 15 years.
 
-- [**ameihao**] (https://github.com/ameihao) Hi, I'm Amei Hao. Glad to study with you all! I hope we can enjoy this class together.
+- [**ameihao**](https://github.com/ameihao) Hi, I'm Amei Hao. Glad to study with you all! I hope we can enjoy this class together.
 
 - [**@Weijia-H**](https://github.com/Weijia-H/) Hi, I'm Weijia Hu. I love spicy food and have a dog named Lemon.
 
@@ -59,7 +59,7 @@ username!
 
 - [**@suyeonry**](https://github.com/suyeonry) I am a genomic researcher who is trying to learn Data Science
 
-- [**@Shan-shan-666**]（https://github.com/Shan-shan-666） Hi guys this is haoyue and this is my second trying 
+- [**@Shan-shan-666**]https://github.com/Shan-shan-666） Hi guys this is haoyue and this is my second trying 
 
 - asuasu95  "I am Changqing Su. I am a master student in Biostats."
 
