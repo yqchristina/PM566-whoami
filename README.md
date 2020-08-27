@@ -55,6 +55,7 @@ robindu552
 Luqing521
 
 bcruiz
+[**@bcruiz**](https://github.com/bcruiz) Love taking care of my succulents and I read baseball statistical programming books for fun!
 
 suyeonry
 
