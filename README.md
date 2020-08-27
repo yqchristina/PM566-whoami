@@ -26,7 +26,7 @@ username!
 
 
 
-- cbegay89 git commit -a -m "Hello, this is Cynthia Begay"
+- [**@cbegay89**](https://github.com/cbegay89) git commit -a -m "Hello, this is Cynthia Begay"
 
 - mbolshakova
 [**@mbolshakova**](https://github.com/mbolshakova) I was originally born in Belarus and have a Corgi named Nugget.  <img src="https://avatars0.githubusercontent.com/u/42354479?s=460&u=ae92b8aa2b1aae4d0c8034ff90a1144aef8d1b82&v=4" alt="An old picture of me" width="40px">
