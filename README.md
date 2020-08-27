@@ -61,11 +61,11 @@ username!
 
 - [**@Shan-shan-666**](https://github.com/Shan-shan-666) Hi guys this is haoyue and this is my second trying 
 
-- asuasu95  "I am Changqing Su. I am a master student in Biostats."
+- [**@asuasu95**](https://github.com/asuasu95)  "I am Changqing Su. I am a master student in Biostats."
 
 - [**@Icygrey**](https://github.com/Icygrey)I am Tao Huang. I want to be a qualified data scientist!
 
-- svannord git commit -a -m "[I am from NYC and have no previous experience with coding.]"
+- [**@svannord**](https://github.com/svannord) git commit -a -m "[I am from NYC and have no previous experience with coding.]"
 git push
 
 - [**@HopeW233**](https://github.com/HopeW233) I'm a graduate student at USC, and my nickname is Hope.
