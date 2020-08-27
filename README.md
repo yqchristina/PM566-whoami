@@ -13,8 +13,7 @@ For example, this is what I did with mine:
 Notice the figure of my username (that's optional and fun). This is the code I used of writing that line:
 
 ```md
-[**@gvegayon**](https://github.com/gvegayon) My first programming language was Visual
-Basic and before going to business school I wanted to be a musician
+[**@gvegayon**](https://github.com/gvegayon) My first programming language was VisualBasic and before going to business school I wanted to be a musician
 <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" alt="An old picture of me" width="40px">
 ```
 Look for your Github username and add a link to your Github profile and something about
@@ -22,7 +21,6 @@ yourself (that you don't mind publicly sharing). Remember to only modify the lin
 username!
 
 # PM566 Fall 2020 students
-
 
 
 
@@ -81,6 +79,8 @@ git push
 - [***MingzhiYe16***](https://github.com/MingzhiYe16) I'm from Hefei, China. And I'm interested in the data science and the culture of the US
 
 - [**@hankezhe**](https://github.com/hankezhe)  “hi everyone my name is Hanke and I am a PhD student in Health Econ”
+
+- [**@stephtring**](https://github.com/stephtring/PM566-fall2020-whoami) Hola nice to meet ya'll
 
 # PM566 Fall 2020 instructors
 
