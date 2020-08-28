@@ -82,6 +82,8 @@ git push
 
 - [**@stephtring**](https://github.com/stephtring/PM566-fall2020-whoami) Hola nice to meet ya'll
 
+- [**@shiyushen**](https://github.com/shiyushen)I am now in China. 
+
 # PM566 Fall 2020 instructors
 
 [**@gvegayon**](https://github.com/gvegayon) adding some text <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" width="40px">
