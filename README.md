@@ -19,9 +19,11 @@ Notice the figure of my username (that's optional and fun). This is the code I u
 
 Look for your GitHub username and add a link to your Github profile and something about
 yourself you don't mind sharing publicly. Remember to only modify the line with your
-username!
+username! If you don't see your username, just add it at the end of the list (and see what happens!).
 
-If you don't see your username, just add it at the end of the list (and see what happens!).
+Once you are done, submit a
+[Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to include your information in the original
+repository.
 
 # PM566 Fall 2021 students
 
@@ -66,7 +68,7 @@ If you don't see your username, just add it at the end of the list (and see what
 
 ## Instructors
 
-[**@gvegayon**](https://github.com/gvegayon) adding some text <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" width="40px">
+**@gvegayon**
 
 **@ksiegmund**
 
@@ -146,3 +148,8 @@ git push
 # Previous versions
 
 [Fall 2020](https://github.com/USCbiostats/PM566-whoami/tree/fall2020)
+
+
+# Code of Conduct
+
+Please note that the PM566-whoami project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
