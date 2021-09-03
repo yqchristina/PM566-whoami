@@ -1,4 +1,4 @@
-# Intro to Data Science, Fall 2020
+# Intro to Public Health Data Science
 
 You need to make a fork of this repository, find your name in the list below, and replace it with something like:
 
@@ -16,13 +16,66 @@ Notice the figure of my username (that's optional and fun). This is the code I u
 [**@gvegayon**](https://github.com/gvegayon) My first programming language was VisualBasic and before going to business school I wanted to be a musician
 <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" alt="An old picture of me" width="40px">
 ```
-Look for your Github username and add a link to your Github profile and something about
-yourself (that you don't mind publicly sharing). Remember to only modify the line with your
+
+Look for your GitHub username and add a link to your Github profile and something about
+yourself you don't mind sharing publicly. Remember to only modify the line with your
 username!
 
-# PM566 Fall 2020 students
+If you don't see your username, just add it at the end of the list (and see what happens!).
+
+# PM566 Fall 2021 students
+
+- jaxabercrombie
+
+- ramayyala
+
+- smbaeyens
+
+- CarmenChenEpi
+
+- WebsterJiang
+
+- PikaMike
+
+- yqchristina
+
+- LeonaMa
+
+- genetnguyen
+
+- aomidsalar
+
+- amyt917
+
+- JuehanWang
+
+- songruwa
+
+- yywuzhanfei
+
+- xy4kierra
+
+- NJY530
+
+- Nicky-Nie
+
+- jasmineslike
+
+- caroline0029
 
 
+## Instructors
+
+[**@gvegayon**](https://github.com/gvegayon) adding some text <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" width="40px">
+
+**@ksiegmund**
+
+[**@AbigailHorn**](https://github.com/abigailhorn) <img src="http://abigail-horn.com/wp-content/uploads/2018/09/photo_AbigailHorn.jpg" alt="Academic pic" width="40px"> A link to some music tracks recored many years ago on [my website](http://abigail-horn.com/index.php/music/).
+
+
+# Fall 2020
+
+## Students
 
 - [**@cbegay89**](https://github.com/cbegay89) git commit -a -m "Hello, this is Cynthia Begay"
 
@@ -37,14 +90,9 @@ username!
 
 - [**@Weijia-H**](https://github.com/Weijia-H/) Hi, I'm Weijia Hu. I love spicy food and have a dog named Lemon.
 
-
-
 - [**eshkim1021**](https://https://github.com/eshkim1021) I am from San Diego, CA.I loving playing instruments. I have played the cello for 8 years.
 
 - [**@slee2424**](https://github.com/slee2424) Hi everyone, I'm Jun. Nice to meet you all.
-
-
-
 
 - [**@yina-liu**](https://github.com/yina-liu) I'm a second-year master student of Biostatistics, and I prefer to use R as my data analysis tool.
 
@@ -84,7 +132,8 @@ git push
 
 - [**@shiyushen**](https://github.com/shiyushen)I am now in China. 
 
-# PM566 Fall 2020 instructors
+
+## Instructors
 
 [**@gvegayon**](https://github.com/gvegayon) adding some text <img src="https://avatars3.githubusercontent.com/u/893619?s=460&u=723af9d8b02e277a5a91e0c179bbdf4450abec4b&v=4" width="40px">
 
@@ -94,3 +143,6 @@ git push
 
 [**@AbigailHorn**](https://github.com/abigailhorn) <img src="http://abigail-horn.com/wp-content/uploads/2018/09/photo_AbigailHorn.jpg" alt="Academic pic" width="40px"> A link to some music tracks recored many years ago on [my website](http://abigail-horn.com/index.php/music/).
 
+# Previous versions
+
+[Fall 2020](https://github.com/USCbiostats/PM566-whoami/tree/fall2020)
