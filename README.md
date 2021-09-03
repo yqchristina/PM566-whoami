@@ -39,7 +39,7 @@ repository.
 
 - PikaMike
 
-- yqchristina I'm a PhD student in Molecular Pharmacology and Toxicology from Canada :octocat:
+- @yqchristina I'm Christina, a PhD student in Molecular Pharmacology and Toxicology from Canada :octocat:
 
 - LeonaMa
 
